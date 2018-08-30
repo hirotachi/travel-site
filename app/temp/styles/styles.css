@@ -9,4 +9,6 @@ body{
 .box a{
         display: block;
         padding: 10px;
+        color: red;
+        background: green;
     }

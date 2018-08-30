@@ -1,5 +1,5 @@
 $mainBlue : #2f5572;
-
+$mainRed : red;
 body{
     color: $mainBlue;
     padding: 10px;
@@ -11,5 +11,7 @@ body{
     a{
         display: block;
         padding: 10px;
+        color: $mainRed;
+        background: green;
     }
 }
